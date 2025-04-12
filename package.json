@@ -47,7 +47,7 @@
     "@babel/plugin-transform-runtime": "^7.0.0-beta.49",
     "@babel/preset-env": "^7.0.0-beta.49",
     "@babel/runtime": "^7.0.0-beta.49",
-    "@commitlint/cli": "^7.0.0",
+    "@commitlint/cli": "^19.8.0",
     "@commitlint/config-angular": "^7.0.1",
     "@commitlint/prompt": "^7.0.0",
     "@commitlint/prompt-cli": "^7.0.0",
@@ -59,8 +59,8 @@
     "eslint-config-airbnb-base": "^13.0.0",
     "eslint-plugin-import": "^2.13.0",
     "husky": "^0.14.3",
-    "jest": "^22.0.5",
-    "semantic-release": "^15.0.0",
+    "jest": "^29.7.0",
+    "semantic-release": "^19.0.3",
     "travis-deploy-once": "^5.0.0"
   },
   "dependencies": {
